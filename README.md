@@ -1,6 +1,6 @@
-# :chess_pawn: Projeto Chess System :chess_pawn:
+# Projeto Chess System
 
-## Como jogar :video_game:
+## 🔧 Instalação
 
 1. Abra um _terminal_ (**[Git Bash](https://gitforwindows.org/)** é o recomendado, pois é colorido)
 2. Entre no diretório **/bin** do projeto
@@ -15,3 +15,12 @@
 | Pawn(Peão) | Rook(Torre) |  Knight(Cavalo) | Bishop(Bispo)  |  Queen(Rainha) | King(Rei)  |
 |---|---|---|---|---|---|
 | **P** | **R** | **N** | **B** | **Q** | **K** |
+
+## :hammer_and_wrench: Construído com
+
+* [Eclipse](https://www.eclipse.org/downloads/) - IDE usada.
+* [Git](https://github.com/) - Controle de versão.
+* [Java](https://rometools.github.io/rome/) - Liguagem de desenvolvimento
+
+
+

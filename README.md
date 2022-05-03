@@ -7,8 +7,8 @@
 3. Após entrar no diretório, digite `Java application/Program` para rodar a aplicação
 4. O resultado esperado será esse, conforme o **1° Tela Inicial** exibe abaixo:
 
-|---|
 | ![Screenshot_1](https://user-images.githubusercontent.com/56324728/90350890-e12cd180-e014-11ea-819f-ae9f66638d24.png)  |
+
 5. **Observações:** :pencil:
 - Peças: Peão, Torre, Cavalo, Bispo, Rainha e Rei
 
